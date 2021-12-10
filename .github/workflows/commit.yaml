@@ -31,6 +31,6 @@ jobs:
         run: |
           pylama .
 
-#      - name: Run Tests
-#        run: |
-#          py.test -v -s tests/unit/test_utilities.py
+      - name: Run Tests
+        run: |
+          py.test -s -v tests/
