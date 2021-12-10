@@ -1,0 +1,11 @@
+for _ in range(10):
+    print("world")
+
+print("world")
+print("world")
+print("world")
+print("world")
+print("world")
+print("world")
+print("world")
+print("world")
