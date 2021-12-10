@@ -1,0 +1,4 @@
+netmiko==3.4.0
+black==21.12b0
+pytest==6.2.5
+pylama==7.7.1
